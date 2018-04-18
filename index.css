@@ -1,0 +1,94 @@
+.body{
+	color: black;
+    background: #f1f2f7;
+    font-family: 'Open Sans', sans-serif;
+    font-size:10px;
+}
+.content{
+	width: 300px;
+	margin: 20px auto;
+	height: 300px;
+	background-color: white;
+	margin-top: 100px;
+	
+}
+
+.top{
+	/* Rectangle 6 */
+
+position: absolute;
+width: 300px;
+height: 48px;
+
+background: #008EFA;
+color: white;
+text-align: center;
+padding-top: 15px;
+}
+
+
+.form-control{
+	margin-top: 30px;
+	box-shadow: silver
+	background-color: silver;
+	width: 230px;
+	margin-left: 10px;
+}
+
+
+#input2{
+	margin-top: 9px;
+	width: 270px;
+	margin-left: 15px;
+}
+
+
+#input{
+	width: 270px;
+	margin-left: 15px;
+}
+
+
+.check{
+	margin-left: -70px;
+	color: #41cac0;
+}
+
+.btn-primary{
+	width: 270px;
+	height: 50px;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 18PX;
+}
+
+#font-top{
+	font-size: 18px;
+}
+
+#font-content{
+	font-size: 12px;
+	color: black;
+}
+
+
+#forgot{
+	text-align: right;
+	margin-top: -15px;
+	font-family:  sans-serif;
+	color:#41cac0;
+	font-size: 12px;
+	padding-right: 7px;
+}
+
+#last-text{
+	font-size: 12px;
+	color: black;
+	margin-top: 7px;
+}
+
+#last-text2{
+	font-size: 12px;
+	color: #41cac0;
+	margin-top: 7px;
+}
